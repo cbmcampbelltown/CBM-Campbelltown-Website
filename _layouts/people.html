@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+{% for member in site.data.leaders %}
+<p><span style="font-size:19pt;">{{ member.name }} |</span>
+{% if member.role %} {{ member.role }} {% endif %}
+</p>
+    {% if member.phone %}
+        <p><strong>Phone: </strong>{{ member.phone }}</p>
+    {% endif %}
+
+    {% if member.email %}
+        <p><strong>Email: </strong>{{ member.email }}</p>
+    {% endif %}
+
+    {% if member.support_link %}
+    <p><strong>Profile & Financial support: </strong><a href='{{ member.support_link }}'>Click here!</a></p>
+    {% endif %}
+
+    <br/>
+    <br/>
+{% endfor %}
