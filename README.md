@@ -8,4 +8,19 @@ The website is automatically generated and updated after every commit to the gh-
 
 Documentation for Jekyll and GitHub pages can be found at the above links.
 
+## Contribute
+Please clone the repository and test your changes locally before submitting a pull request.
+To do this, you will need to follow the following steps:
+
+### Clone and test the repository locally
+- [Install Jekyll (click here for instructions)](http://jekyllrb.com/docs/installation/)
+- [Fork this repository to your own account](https://github.com/cbmcampbelltown/CBM-Campbelltown-Website#fork-destination-box)
+- Clone the repository from your own account
+- Checkout the `gh-pages` branch: `git checkout gh-pages`
+- Run the Jekyll test server: `jekyll serve`
+- View the site by going to `localhost:4000` in your web browser
+
+### Push changes and submit a pull request
+- For more detail, see [this article](https://help.github.com/articles/about-pull-requests/)
+
 For more information, contact David Wales at daviewales AT gmail.com
