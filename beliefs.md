@@ -13,4 +13,4 @@ These are the core beliefs of CBM Campbelltown:
 
 These are the core beliefs we believe as CBM Campbelltown. The implication of these beliefs is that we as Christians believe that we too are subject to sin and distort God’s word. But in humility we come to listen and learn from the Bible how God would have us live in the world whilst we wait the return of Jesus. We that we don’t understand everything the Bible says, and that we all have things to learn throughout our lives about God, ourselves the the way we relate to God and others.
 
-None-the-less though we admit we don’t know everything, we do hold fast to the beliefs above as taught in God’s word. As God's people at UWS Campbelltown we hold forth the Word of Life in prayer that all people will come to trust in Jesus as Lord and Saviour.
+None-the-less though we admit we don’t know everything, we do hold fast to the beliefs above as taught in God’s word. As God's people at Western Sydney Uni Campbelltown we hold forth the Word of Life in prayer that all people will come to trust in Jesus as Lord and Saviour.
