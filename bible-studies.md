@@ -5,6 +5,11 @@ permalink: /bible-studies/
 map: true
 ---
 
+# Bible Talks
+- Time: 1 PM, every Thursday
+- Location: [Check Facebook](https://www.facebook.com/groups/cbmcampbelltown/)
+
+# Bible Studies
 Regular Bible studies run at the following times and locations:
 
 - Monday
@@ -13,15 +18,14 @@ Regular Bible studies run at the following times and locations:
 - Tuesday
     - 12-1
     - 1-2
+    - 6-8 @ Res Common Room
 - Wednesday
     - 12-1
     - 1-2
-    - 6-8 @ Res Common Room
 - Thursday
     - 12-1
-    - 1-2
 - Friday
-    - 12-1 @ PBL 1, Building 30
+    - 12-1
 
-Location of Bible Studies is the ground floor of Building 2, unless stated otherwise
-(Across from Library, down the lift, in the new section.)
+Location of Bible Studies is the ground floor of Building 2 
+(The Learning Commons, across from Library, down the lift, in the new section.)
