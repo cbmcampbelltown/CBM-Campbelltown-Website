@@ -8,8 +8,7 @@ The website is automatically generated and updated after every commit to the gh-
 
 Documentation for Jekyll and GitHub pages can be found at the above links.
 
-If you are completely new to `git`, please do the following 15 minute tutorial:
-[Git tutorial](http://try.github.io)
+If you are completely new to `git`, please do the following 15 minute [Git tutorial](http://try.github.io).
 
 ## Contribute
 Please clone the repository and test your changes locally before submitting a pull request.
