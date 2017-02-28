@@ -3,11 +3,6 @@
   role: Campus Director
   support_link: 'https://afes.org.au/profile/adam-richards'
 
-- name: David Wales
-  phone: 0432 651 023
-  role: Staff (MTS)
-  support_link: 'https://afes.org.au/profile/david-wales'
-
 - name: Alex Browne
   phone: 0434 853 801
   role: Staff (MTS)
@@ -16,3 +11,8 @@
 - name: Peter Carroll
   phone: 0478 588 568
   role: Student President
+  
+- name: David Wales
+  phone: 0432 651 023
+  role: Website
+  support_link: 'https://afes.org.au/profile/david-wales'
