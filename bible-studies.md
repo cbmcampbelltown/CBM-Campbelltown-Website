@@ -20,8 +20,8 @@ Regular Bible studies run at the following times and locations:
     - 12-1
 - Wednesday
     - 12-1
-    - 1-2
-    - 6-8 (location TBA)
+    - 1-2
+    - 6-8 (location TBA)
 - Thursday
     - 12-1
 
