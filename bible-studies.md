@@ -6,8 +6,8 @@ map: true
 ---
 
 # Bible Talks
-- Time: TBA
-- Location: [Check Facebook](https://www.facebook.com/groups/cbmcampbelltown/)
+- Time: Monday at 5:00 PM
+- Location: Somewhere in building 10. We'll post on [Facebook](https://www.facebook.com/groups/cbmcampbelltown/) when our booking is finalised. If you can't find us, contact one of the people on our [leaders page](/leaders/)
 
 # Bible Studies
 Regular Bible studies run at the following times and locations:
