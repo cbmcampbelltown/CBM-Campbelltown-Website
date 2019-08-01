@@ -25,5 +25,4 @@ Regular Bible studies run at the following times and locations:
 - Thursday
     - 12-1
 
-Location of Bible Studies is in the Multi-Faith Centre.
-(Below Jamaica Blue, but accessible from outside the building to the North.)
+Location of Bible Studies is in the food hub near Jamaica Blue.
