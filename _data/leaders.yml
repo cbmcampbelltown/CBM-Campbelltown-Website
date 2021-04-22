@@ -1,15 +1,37 @@
-- name: Adam Richards
-  phone: 0457 775 538
+# Data describing the CBM Campbelltown Staff
+#
+# This is a YAML file. Please see the following tutorial for more information:
+# https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial.html
+#
+# Example data:
+# 
+# - name: John Smith
+#   email: jsmith@email.com
+#   phone: 1234 5678
+#   role: Campus Director
+#   support_link: 'https://support.afes.org.au/support-john-smith'
+#
+# name is the only required field. The other fields are optional.
+# All fields are free text.
+#
+# This data is used to create the following page:
+# https://cbmcampbelltown.com/leaders/
+#
+# It is created from the following two files:
+# _layouts/people.html
+# leaders.md
+
+- name: Paddy Benn
   role: Campus Director
-  support_link: 'https://afes.org.au/profile/adam-richards'
   
-- name: Melissa Tyrrell
-  email: Mel_mel_1994@hotmail.com
+- name: Kit Ng
   role: Staff Worker
-  support_link: 'https://support.afes.org.au/support-melissa-tyrrell-wsu-campbelltown-4986'
   
-- name: Peter Carroll
-  phone: 0478 588 568
+- name: Katie Balestri
+  role: Apprentice
+  email: katie.balestri@afes.org.au
+  
+- name: Sarah Chen
   role: Student President
   
 - name: David Wales
