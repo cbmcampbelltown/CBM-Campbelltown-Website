@@ -1,22 +1,5 @@
 <header class="site-header">
 
-
-<script type="text/javascript" src="{{ site.baseurl }}/scripts/instafeed.min.js"></script>
-<script type="text/javascript">
-    var image_width = 150;
-    var image_count = Math.floor(window.innerWidth / image_width) + 1;
-    var userFeed = new Instafeed({
-        get: 'user',
-        userId: {{ site.instagram_user_id }},
-        accessToken: "{{ site.instagram_access_token }}",
-        limit: image_count,
-    });
-    userFeed.run();
-</script>
-
-<div id="instafeed"></div>
-
-
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
