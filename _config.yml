@@ -2,9 +2,8 @@
 title: CBM Campbelltown
 email: contact@cbmcampbelltown.com
 facebook: "facebook.com/groups/cbmcampbelltown"
-instagram_user_id: 2134239621
-instagram_access_token: "2134239621.2b7c8fe.6138dfc492b845a29013b2c01099093f"
-parent: "www.mycbm.org.au"
+instagram: https://www.instagram.com/cbmcampbelltown/
+#parent: "www.mycbm.org.au"
 description: > # this means to ignore newlines until "baseurl:"
   Uncover the real Jesus by reading the Bible with us!
 #baseurl: "" # the subpath of your site, e.g. /blog/
